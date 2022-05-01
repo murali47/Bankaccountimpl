@@ -12,11 +12,33 @@ class Reverse
 class RevMain
 {
 	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
+	public static void main(String args[])
 	{
 		Reverse rev = new Reverse();
+		
+		
+		
 		int m = 12345;
 		System.out.println("m = " + m);
 		String r = rev.reverseint(12345);
-		System.out.println("reverse is" +r);
+		System.out.println("reverse is" +r)
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
